@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Games</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <style>
+    body {
+      font-family: Arial, Helvetica, sans-serif;
+    }
+    h1 {
+      color: #2d6cdf;
+    }
+  </style>
+</head>
+<body>
+  <h1>Games</h1>
+  <p>List of available games will appear here.</p>
+</body>
+</html>
